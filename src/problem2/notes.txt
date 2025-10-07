@@ -1,0 +1,9 @@
+Right now, I need to understand the problem:
+- The user "swap assets from one currency to another." => It means that we first pick the
+currencies to swap. We then input the amount to send/receive. We then hit swap.
+
+Assumption:
+- We have unlimited amount in our balance.
+
+UI:
+- Something modern like OKX.
